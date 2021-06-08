@@ -10,5 +10,5 @@ const repeatString = function(string, times) {
     }
 };
 
-repeatString('hey', 10);
+
 module.exports = repeatString;
